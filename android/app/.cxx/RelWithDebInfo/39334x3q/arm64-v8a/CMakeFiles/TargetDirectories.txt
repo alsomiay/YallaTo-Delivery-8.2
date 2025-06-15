@@ -1,0 +1,2 @@
+E:/my_projects/delivery-man-app-v10/Delivery man app/android/app/.cxx/RelWithDebInfo/39334x3q/arm64-v8a/CMakeFiles/edit_cache.dir
+E:/my_projects/delivery-man-app-v10/Delivery man app/android/app/.cxx/RelWithDebInfo/39334x3q/arm64-v8a/CMakeFiles/rebuild_cache.dir

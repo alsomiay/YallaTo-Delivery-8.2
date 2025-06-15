@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "849886238487",
+    "project_id": "yallato-ee4b1",
+    "storage_bucket": "yallato-ee4b1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849886238487:android:69efa5af0ae52a9bbc0952",
+        "android_client_info": {
+          "package_name": "com.yallato.delivery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuC5_LdEFlvlRRLNPARrT84jYtQAZeuIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
