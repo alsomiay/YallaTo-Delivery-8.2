@@ -1,4 +1,4 @@
-package com.yallato.stackfood_multivendor_driver
+package com.yallato.delivery
 
 import io.flutter.embedding.android.FlutterActivity
 
